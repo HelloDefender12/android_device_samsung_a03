@@ -7,7 +7,6 @@
 /teecfg              emmc      /dev/block/by-name/teecfg            flags=display=teecfg
 /vbmeta              emmc      /dev/block/by-name/vbmeta            flags=display=vbmeta
 /vbmeta_system       emmc      /dev/block/by-name/vbmeta_system     flags=display=vbmeta_system
-/vbmeta_vendor       emmc      /dev/block/by-name/vbmeta_vendor     flags=display=vbmeta_vendor
 /dtbo                emmc      /dev/block/by-name/dtbo              flags=display=dtbo
 /ltedsp              emmc      /dev/block/by-name/l_ldsp            flags=display=ltedsp
 /ltegdsp             emmc      /dev/block/by-name/l_gdsp            flags=display=ltegdsp
