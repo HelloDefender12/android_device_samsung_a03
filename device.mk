@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/samsung/a02
+LOCAL_PATH := device/samsung/a03
 
 # Dynamic Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
