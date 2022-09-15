@@ -24,4 +24,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 
 # Fastbootd
 PRODUCT_PACKAGES += \
-	android.hardware.fastboot@1.0-impl-mock
+	android.hardware.fastboot@1.0-impl-mock \
+	fastbootd
+	
+
