@@ -79,6 +79,7 @@ TARGET_BOARD_PLATFORM := ums9230
 # Recovery
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
+TARGET_RECOVERY_INITRC := $(DEVICE_PATH)/recovery/root/init.recovery.ums9230_4h10.rc
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2099-12-31
