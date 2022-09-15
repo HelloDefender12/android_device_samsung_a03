@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "pkm774/android_kernel_unisoc/",
+    "target_path": "kernel/samsung/a03",
+    "branch": "master"
+  }
+]
