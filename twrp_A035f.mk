@@ -11,7 +11,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
 # Inherit from a03 device
-$(call inherit-product, device/samsung/a03/device.mk)
+$(call inherit-product, device/samsung/A035f/device.mk)
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/twrp/config/common.mk)
