@@ -17,8 +17,8 @@ $(call inherit-product, device/samsung/a03/device.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a03
-PRODUCT_NAME := twrp_a03
+PRODUCT_DEVICE := A035f
+PRODUCT_NAME := twrp_A035f
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A035F
+PRODUCT_MODEL := SM-A035f
 PRODUCT_MANUFACTURER := samsung
